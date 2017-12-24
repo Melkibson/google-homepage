@@ -1,2 +1,1 @@
-Reproduction of the Google homepage page.
-
+Reproduction of the Google homepage.
