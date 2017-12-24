@@ -1,2 +1,2 @@
-Reproduction of the Google index page.
+Reproduction of the Google homepage page.
 
